@@ -39,11 +39,11 @@
     * [定期実行シナリオ](tutorial-get-started/studio/scheduledscenario.md)
   * [通知先の設定](tutorial-get-started/studio/recipient-settings.md)
   * [スクリーンショット設定](tutorial-get-started/studio/screenshot-settings.md)
-  * [利用状況 (β)](tutorial-get-started/studio/analysis-center.md)
+  * [利用状況](tutorial-get-started/studio/analysis-center.md)
 
 * [コラボレーション](tutorial-get-started/collaboration/README.md)
-  * [スレッド (β)](tutorial-get-started/collaboration/threads.md)
-  * [クリップ (β)](tutorial-get-started/collaboration/clips.md)
+  * [スレッド](tutorial-get-started/collaboration/threads.md)
+  * [クリップ](tutorial-get-started/collaboration/clips.md)
 
 * [拡張機能](tutorial-get-started/extensions/README.md)
   * [プライベート拡張機能](tutorial-get-started/extensions/private-extensions.md)
