@@ -89,7 +89,8 @@ Assetのスクリーンショットを取得するかどうかについて確認
 
 ### アセットの削除
 
-作成したアセットは、右サイドの三点リーダより"Delete this asset"を選択します。
+作成したAssetは、右サイドの三点リーダ![](../../.gitbook/assets/three_points_reader_icon.png)より"Delete this asset"を選択します。
+
 削除してよい場合、削除ボタンをクリックして確定させます。
 <!--Photo--> 
 <figure><img src="../../.gitbook/assets/RegisterAssetsDelete_jp.png" width="50%" alt="登録削除"></figure>

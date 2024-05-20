@@ -5,21 +5,19 @@
 シナリオの新規作成と、作成されているシナリオを一覧で表示します。
 <figure><img src="../../.gitbook/assets/ScenarioPageWithData_jp.png" width="50%" alt="シナリオ初期ページ"></figure>
 
-
-
 - シナリオの新規作成：ボタンをクリックすることで、新規シナリオ作成のページへ遷移します。作成方法については、「シナリオの新規作成」手順へ進みます。
 - タイプ ：シナリオのタイプがアイコンで表示されます。
-    - アラート：<picture><img src="../../.gitbook/assets/senarios_alert_icon.png" alt="アラートアイコン"></picture>赤いアイコンで表示されます。
-    - インスタントルックアップ：<picture><img src="../../.gitbook/assets/senarios_instant_lookup_icon.png" alt="インスタントルックアップアイコン"></picture>青いアイコンで表示されます。
-    - 定期実行：<picture><img src="../../.gitbook/assets/senarios_schedule_icon.png" alt="定期実行アイコン"></picture>緑のアイコンで表示されます。
-    - 未設定：<picture><img src="../../.gitbook/assets/question_icon.png" alt="不明アイコン"></picture>灰色のアイコンで表示されます。
+    - アラート：![](../../.gitbook/assets/senarios_alert_icon.png) 赤いアイコンで表示されます。
+    - インスタントルックアップ：![](../../.gitbook/assets/senarios_instant_lookup_icon.png) 青いアイコンで表示されます。
+    - 定期実行：![](../../.gitbook/assets/senarios_schedule_icon.png) 緑のアイコンで表示されます。
+    - 未設定：![](../../.gitbook/assets/question_icon.png) 灰色のアイコンで表示されます。
 - シナリオ：シナリオ名が表示されます。シナリオ名の直下に表示される文字列はシナリオIDです。シナリオIDをクリックすることで、シナリオIDを含んだPITWALLエンドポイントURLをコピーできます。
 - トリガー：該当のシナリオに設定されたトリガー（サービス）がアイコンで表示されます。シナリオ実行の起因となる要素です。
 - ルックアップ：ルックアップ対象のアイコンが表示されます。マウスオーバーするとルックアップ対象のサービス名が表示されます。
 - 次回の予定：定期実行で設定されているシナリオについて、次回のシナリオ実行日時が表示されます。
 - 最後にトリガーされた日時：最後に対象のシナリオが実行した日時が表示されます。
 - 最終更新日時：シナリオの設定が最後に更新された日時が表示されます。
-- 三点リーダ：当該シナリオの三点リーダー<picture><img src="../../.gitbook/assets/three_points_reader_icon.png" alt="不明アイコン"></picture>をクリックすることで、その他のメニューを表示します。
+- 三点リーダ：当該シナリオの三点リーダー![](../../.gitbook/assets/three_points_reader_icon.png)をクリックすることで、その他のメニューを表示します。
     - シナリオを管理：シナリオの編集ページへ遷移します。
     - シナリオを実行：設定されたシナリオを手動で実行します。
     - シナリオをクローンする：シナリオのコピーを作成します。クローンされたシナリオはシナリオ名の後ろに「Copy」という文字列が付与されます。
@@ -28,7 +26,6 @@
 
 ## シナリオの新規作成
 「シナリオの新規作成」ボタンをクリックすると、モーダル画面が表示されます。下記の３つの項目を入力して保存ボタンを押してください。全て入力必須項目となります。
-<!--Photo-->
 <figure><img src="../../.gitbook/assets/CreateScenario_jp.png" width="50%" alt="シナリオの作成"></figure>
 
 - シナリオタイトル：シナリオに任意の名前つけます。
