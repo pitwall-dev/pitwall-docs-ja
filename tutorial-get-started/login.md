@@ -2,7 +2,7 @@
 
 - ブラウザーからPitwallのURL https://app.pitwall-web.jp/ へアクセスします。
 
-<figure><img src="../.gitbook/assets/login_ja.png" width="50%"></figure>
+<figure><img src="../.gitbook/assets/login_ja.png" width="70%"></figure>
 
 - E-mailアドレスと、パスワードを入力して「Sign In」をクリックします。
   - ログイン後に「Scenario」ページに遷移すればログインが成功です。

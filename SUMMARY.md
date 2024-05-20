@@ -23,8 +23,7 @@
 
 ## Tutorial - Get Started
 
-* [ログイン](tutorial-get-started/login.md)
-* [ログアウト](tutorial-get-started/logout.md)
+* [ログイン/ログアウト](tutorial-get-started/login_logout.md)
 * [アカウント管理](tutorial-get-started/manage-my-account.md)
 * [組織の管理](tutorial-get-started/manage-organization.md)
 
