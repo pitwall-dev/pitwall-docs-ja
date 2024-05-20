@@ -99,7 +99,10 @@
 * [🖥️ セキュリティ運用向け](use-cases/for-security-operation.md)
 * [🔦 研究者向け](use-cases/for-researchers.md)
 
+
+<!--
 ## Open Source Projects
 
 * [🎵 Open Alert](open-source-projects/open-alert.md)
 * [🕸️ OpenWeb](open-source-projects/openweb.md)
+-->
