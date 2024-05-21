@@ -1,6 +1,6 @@
 # ハブ
 
-アセットをグループ化することにより、より詳細に分析を促進します。
+アセットをグループ化することにより、より詳細な分析を促進します。
 
 <figure><img src="../../.gitbook/assets/Hub_Page_Initial_jp.png" alt="ハブページ" width="50%"><figcaption></figcaption></figure>
 

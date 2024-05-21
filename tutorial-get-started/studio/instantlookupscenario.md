@@ -3,7 +3,7 @@
 以下は、「ゼロから構築」でシナリオを作成する場合の手順です。<figure><img src="../../.gitbook/assets/InstantLookUpScenario.png" width="50%" alt="インスタントルックアップシナリオ"></figure>
 
 ## トリガー設定
-「トリガーを設定」ボタンをクリックし、シナリオが実行するトリガー（きっかけ）を定義します。インスタントルックアップシナリオの場合は、トリガーはブラウザの拡張機能となります。<figure><img src="../../.gitbook/assets/InstantLookUp_Trigger_setting_jp.png" width="50%" alt="トリガー設定"></figure>
+「トリガーを設定」ボタンをクリックし、シナリオを実行するトリガー（きっかけ）を定義します。インスタントルックアップシナリオの場合は、トリガーはブラウザの拡張機能となります。<figure><img src="../../.gitbook/assets/InstantLookUp_Trigger_setting_jp.png" width="50%" alt="トリガー設定"></figure>
 - タイトル：トリガーに任意の名前を付けます。
 - タイプ：インスタントルックアップを選択します。
 

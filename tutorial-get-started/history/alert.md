@@ -1,7 +1,7 @@
 # アラート
 
 ## アラートログ
-発砲されたアラートの履歴を見ることができます。主な使用用途は
+アラートシナリオの実行履歴を見ることができます。主な使用用途は
 アラートに関する詳細情報の閲覧、取得された情報を比較、
 そして、アラートの情報にタグ、コメント、注釈を追加することができます。
 詳細な分析を行うことができ、アラートの詳細画面では、対象アラートとは
@@ -13,22 +13,22 @@
 <figure><img src="../../.gitbook/assets/alert_home_ja.png" width="50%"></figure>
 
 ### アラートの履歴画面
-アラートが発砲され、履歴に残るとこのような画面になります。
+アラートが発報され、履歴に残るとこのような画面になります。
 
 <figure><img src="../../.gitbook/assets/alert_withdata_ja.png" width="50%"></figure>
 
 - 実行日時:アラートが実行された日時が表示されます。
-  - <picture><img src="../../.gitbook/assets/filter_icon.png"></picture> アイコンをクリックする事で表示したい実行日時を日付でフィルターする事ができます。
+  - ![](../../.gitbook/assets/filter_icon.png) アイコンをクリックする事で表示したい実行日時を日付でフィルターする事ができます。
     - Fromにフィルターしたい実行日時の開始日時、Toにフィルターしたい実行日時の終了日時を入力して「検索」をクリック。※カレンダーアイコンから日時を選択し、入力することも可能です。
-  - <picture><img src="../../.gitbook/assets/sort_icon_oldest_to_latest.png"></picture> アイコンをクリックする事で、実行日時の表示順番を新しいものから古いもの、古いものから新しいものへと並び変えることができます。
+  - ![](../../.gitbook/assets/sort_icon_oldest_to_latest.png) アイコンをクリックする事で、実行日時の表示順番を新しいものから古いもの、古いものから新しいものへと並び変えることができます。
 - イベント:実行されたイベント名が表示されます。
-  - <picture><img src="../../.gitbook/assets/filter_icon.png"></picture> アイコンをクリックする事で、イベントタイトルからアラートを検索することができます。
+  - ![](../../.gitbook/assets/filter_icon.png) アイコンをクリックする事で、イベントタイトルからアラートを検索することができます。
     - 検索ボックスへ任意のキーワードを入力し、「検索」をクリック。
 - シナリオ:実行されたシナリオ名が表示されます。
-  - <picture><img src="../../.gitbook/assets/filter_icon.png"></picture> アイコンをクリックすることで、シナリオ名でシナリオを検索することができます。
+  - ![](../../.gitbook/assets/filter_icon.png) アイコンをクリックすることで、シナリオ名でシナリオを検索することができます。
       - 検索ボックスへ任意のキーワードを入力し、「検索」をクリック。
 - 重大度:アラートの重大度が表示されます。
-  - <picture><img src="../../.gitbook/assets/filter_icon.png"></picture> アイコンをクリックすることで、イベントの重大度でアラートを検索することができます。
+  - ![](../../.gitbook/assets/filter_icon.png) アイコンをクリックすることで、イベントの重大度でアラートを検索することができます。
       - アラートの重大度(All、Critical、Error、Warning、Info、Debug)を選択し、「検索」をクリック。
 
 ### アラートログの比較画面
@@ -48,26 +48,26 @@
 
 <figure><img src="../../.gitbook/assets/alert_compare_add_new_ja.png" width="50%"></figure>
 
-- 振り返って:過去の日時から追加する比較対象のデータを指定します。※各スクリーンショットはリアルタイムでキャプチャされるため、数分かかる場合があります。
+- 振り返って:過去の日時から追加する比較対象のデータを指定します。
   - 簡易選択:以下の時間から比較する過去の期間を選択します。
     - １時間前
     - １日前
     - １週間前
     - １か月前
 
-  - 日時:比較対象の日時指定します。(試したが、動きがよくわからない&怪しいため、要確認)
+  - 日時:比較対象の日時指定します。<!--試したが、動きがよくわからない&怪しいため、要確認) -->
 
 - 過去のイベント:リストから過去のイベントを選択します。(重大度、イベント、タイムスタンプでフィルター可能です。)
   - フィルターの利用方法
     - 重大度:アラートの重大度が表示されます。
-     <picture><img src="../../.gitbook/assets/filter_icon.png"></picture> アイコンをクリックすることで、イベントの重大度でフィルターすることができます。
+     ![](../../.gitbook/assets/filter_icon.png) アイコンをクリックすることで、イベントの重大度でフィルターすることができます。
       アラートの重大度(All、Critical、Error、Warning、Info、Debug)をクリック。
     - イベント:イベントタイトルが表示されます。
-     <picture><img src="../../.gitbook/assets/filter_icon.png"></picture> アイコンをクリックすることで、イベントのタイトルで検索することができます。
+     ![](../../.gitbook/assets/filter_icon.png) アイコンをクリックすることで、イベントのタイトルで検索することができます。
     - タイムスタンプ:
-     <picture><img src="../../.gitbook/assets/filter_icon.png"></picture> アイコンをクリックする事で表示したい日付でフィルターする事ができます。
+     ![](../../.gitbook/assets/filter_icon.png) アイコンをクリックする事で表示したい日付でフィルターする事ができます。
     　- Fromにフィルターしたい実行日時の開始日時、Toにフィルターしたい実行日時の終了日時を入力して「検索」をクリック。※カレンダーアイコンから日時を選択し、入力することも可能です。
-     <picture><img src="../../.gitbook/assets/sort_icon_oldest_to_latest.png"></picture> <picture><img src="../../.gitbook/assets/sort_arrow_icon.png"></picture> アイコンをクリックする事で、実行日時の表示順番を新しいものから古いもの、古いものから新しいものへと並び変えることができます。
+     ![](../../.gitbook/assets/sort_icon_oldest_to_latest.png) ![](../../.gitbook/assets/sort_arrow_icon.png) アイコンをクリックする事で、実行日時の表示順番を新しいものから古いもの、古いものから新しいものへと並び変えることができます。
 
 
 ### 比較対象を追加後の画面

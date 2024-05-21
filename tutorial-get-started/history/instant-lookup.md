@@ -19,8 +19,8 @@
 - シナリオ：インスタントルックアップが追加されているシナリオの名前
 - キー：URLやツールへアクセスする際に必要とするキーの値になります
 
-左上 <picture><img src="../../.gitbook/assets/filter_icon.png"></picture> をクリックして、日付でフィルタリングすることができます。
-左上 <picture><img src="../../.gitbook/assets/sort_icon_latest_to_oldest.png"></picture>  をクリックして、日付順（古いものから新しいもの）に表示することができます。
+左上 ![](../../.gitbook/assets/filter_icon.png) をクリックして、日付でフィルタリングすることができます。
+左上 ![](../../.gitbook/assets/sort_icon_latest_to_oldest.png) をクリックして、日付順（古いものから新しいもの）に表示することができます。
 
 ### インスタントルックアップイベント情報の確認方法
 インスタントルックアップログ画面で、リストアップされている実行日時またはイベントをクリックして、イベントの詳細情報を確認できます。
