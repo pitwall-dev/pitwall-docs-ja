@@ -2,7 +2,7 @@
 # 📖 Quick Tip
 -->
 
-# 📖 Quick Tip
+# Quick Tip
 
 * PITWALL Web
   * [https://app.pitwall-web.jp/](https://app.pitwall-web.jp/workflows/)\
@@ -12,3 +12,4 @@
 
 * PITWALLアラートエンドポイントに_YourScenarioID_を付加
   * https://api.pitwall-web.jp/createCorrelation/_YourScenarioID_
+
