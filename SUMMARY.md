@@ -54,8 +54,8 @@
   * [定期実行](tutorial-get-started/history/scheduled.md)
   * [ハブ](tutorial-get-started/history/hub.md)
 
-* [ブラウザ機能拡張]()
-* [メール・メッセージ]()
+* [ブラウザ機能拡張](tutorial-get-started/browser-extension.md)
+* [アラートメール・アラートメッセージ](tutorial-get-started/alert.md)
 
 ## Use Cases
 
