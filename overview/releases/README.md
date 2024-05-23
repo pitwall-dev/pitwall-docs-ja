@@ -4,6 +4,6 @@
 [web-ui-and-backend](web-ui-and-backend/)
 {% endcontent-ref %}
 
-{% content-ref url="burauza.md" %}
-[burauza.md](burauza.md)
+{% content-ref url="browser-extension.md" %}
+[browser-extension.md](browser-extension.md)
 {% endcontent-ref %}
