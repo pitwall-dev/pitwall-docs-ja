@@ -1,7 +1,7 @@
 # 🔖 リリースノート
 
-{% content-ref url="web-ui-and-backend/" %}
-[web-ui-and-backend](web-ui-and-backend/)
+{% content-ref url="webui-backend/" %}
+[webui-backend](webui-backend/)
 {% endcontent-ref %}
 
 {% content-ref url="browser-extension.md" %}
