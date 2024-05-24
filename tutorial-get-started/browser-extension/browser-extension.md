@@ -3,8 +3,8 @@
 現在、Chrome拡張機能はパッケージとしてプライベートに提供されています。
 
 ## パッケージ及びインストール方法
-最新のChrome拡張機能は[ここから](https://drive.google.com/drive/folders/1KQhEO_SMMr_kfwVEthifNThVUM6TRTbh?usp=drive_link)入手できます。
-インストール方法は[ここ](./install.md)を参照ください。
+最新のChrome拡張機能は[ここから](https://drive.google.com/drive/folders/1KQhEO_SMMr_kfwVEthifNThVUM6TRTbh?usp=drive_link)入手できます。<br>
+インストール方法は[ここ](install.md)を参照ください。
 
 ## ブラウザ拡張機能の主な機能
 Chrome拡張機能は「Instant lookup」と「Clipper」の２つ機能があります。

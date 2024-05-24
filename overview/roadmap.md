@@ -2,7 +2,7 @@
 # 🏎️ ロードマップ
 -->
 
-# 🏎️ ロードマップ
+# ロードマップ
 
 ## 機能
 
@@ -62,7 +62,7 @@
 
 {% tabs %}
 {% tab title="アラートスキーマ" %}
-&#x20;（アラート送信元）監視ツールのサポート対象範囲の拡大
+（アラート送信元）監視ツールのサポート対象範囲の拡大
 
 オープンソース コミュニティの"**Open Alert**"による駆動
 
@@ -77,12 +77,12 @@
 * [ ] Google Monitoring
 * [x] Grafana
 * [ ] IBM Instana
-* [x] Mackerel&#x20;
+* [x] Mackerel
 * [x] New Relic
 * [x] PagerDuty
   * [x] V1
-  * [x] V2&#x20;
-  * [x] V3&#x20;
+  * [x] V2
+  * [x] V3
 * [ ] Splunk
 * [x] Splunk Oncall (VictorOps)
 * [ ] Zabbix

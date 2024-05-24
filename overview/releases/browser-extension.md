@@ -24,4 +24,4 @@
 
 ## 12.14.2023 - Chrome拡張機能 v.0.4.1 &#x20;
 
-* 新たな 2 in 1 デザイン。 [**ここから**](https://drive.google.com/drive/folders/1KQhEO\_SMMr\_kfwVEthifNThVUM6TRTbh?usp=drive\_link)ダウンロード。&#x20;
+* 新たな 2 in 1 デザイン。 [**ここから**](https://drive.google.com/drive/folders/1KQhEO\_SMMr\_kfwVEthifNThVUM6TRTbh?usp=drive\_link)ダウンロード。
