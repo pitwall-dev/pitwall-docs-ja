@@ -38,6 +38,7 @@
     * [定期実行シナリオ](tutorial-get-started/studio/scheduledscenario.md)
   * [通知先の設定](tutorial-get-started/studio/recipient-settings.md)
   * [スクリーンショット設定](tutorial-get-started/studio/screenshot-settings.md)
+    * [ブラウザの自動化](tutorial-get-started/studio/screenshot-automation.md)
   * [ローカル・エージェント](tutorial-get-started/studio/local-agent.md)
   * [利用状況](tutorial-get-started/studio/analysis-center.md)
   * [専門家のコメント](tutorial-get-started/studio/expert-notes.md)
