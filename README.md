@@ -1,8 +1,8 @@
+# PITWALLへようこそ
+
 <!--
 # 👋 PITWALLへようこそ
 -->
-
-# PITWALLへようこそ
 
 ## Overview
 
