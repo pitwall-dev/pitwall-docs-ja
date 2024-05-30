@@ -32,7 +32,7 @@
 
 * [スタジオ](tutorial-get-started/studio/README.md)
   * [アセット](tutorial-get-started/studio/assets.md)
-  * [シナリオ](tutorial-get-started/studio/senarios.md)
+  * [シナリオ](tutorial-get-started/studio/scenarios.md)
     * [インスタントルックアップシナリオ](tutorial-get-started/studio/instantlookupscenario.md)
     * [アラートシナリオ](tutorial-get-started/studio/alertscenario.md)
     * [定期実行シナリオ](tutorial-get-started/studio/scheduledscenario.md)
