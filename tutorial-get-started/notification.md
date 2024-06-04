@@ -40,9 +40,9 @@
 |:---             | :--   |
 |View Alert       |シナリオがアラート起因の場合、アラートの履歴ページへ遷移します。|
 |Open All         |シナリオに設定されているアセットへジャンプすることができます。|
-|Download         | シナリオの設定で取得されたスクリーンショットをダウンロードすることができます。|
-|Compare          | 直近で取得されたスクリーンショット画像と、過去に取得されたスクリーンショット画像を比較する画面へ遷移します。各シナリオの履歴ページから、直近で実行されたシナリオを選択して参照できる情報と同じ情報が、通知からワンクリックで到達できます。例のシナリオの場合は、シナリオタイプが定期実行なので、定期実行の履歴から情報の比較ページへ遷移したときと同じ情報がワンクリックで閲覧できます。<br> <figure><img src="../.gitbook/assets/notification_compare_sample.png" width="50%" alt="Compareサンプル"></figure> |
-|Create a Thread  | 直近で取得されたスクリーンショットをもとに、スレッドを作成します。スレッド機能については[スレッド](../tutorial-get-started/collaboration/threads.md)ページを参照してください。|
+|Download         |シナリオの設定で取得されたスクリーンショットをダウンロードすることができます。
+|Compare          |直近で取得されたスクリーンショット画像と、過去に取得されたスクリーンショット画像を比較する画面へ遷移します。各シナリオの履歴ページから、直近で実行されたシナリオを選択して参照できる情報と同じ情報が、通知からワンクリックで到達できます。例のシナリオの場合は、シナリオタイプが定期実行なので、定期実行の履歴から情報の比較ページへ遷移したときと同じ情報がワンクリックで閲覧できます。<br> <figure><img src="../.gitbook/assets/notification_compare_sample.png" width="50%" alt="Compareサンプル"></figure>
+|Create a Thread  |直近で取得されたスクリーンショットをもとに、スレッドを作成します。スレッド機能については[スレッド](../tutorial-get-started/collaboration/threads.md)ページを参照してください。|
 
 ### ルックアップグループ名とルックアップタイトル名
 <figure><img src="../.gitbook/assets/Notification_Teams_Title_Footer_jp.png" width="50%" alt="通知コンテンツ"></figure>
