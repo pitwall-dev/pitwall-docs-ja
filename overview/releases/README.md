@@ -1,9 +1,5 @@
 # リリースノート
 
-<!--
-# 🔖 リリースノート
--->
-
 {% content-ref url="webui-backend/README.md" %}
 [webui-backend/README.md](webui-backend/README.md)
 {% endcontent-ref %}

@@ -1,9 +1,5 @@
 # Quick Tip
 
-<!--
-# 📖 Quick Tip
--->
-
 * PITWALL Web
   * [https://app.pitwall-web.jp/](https://app.pitwall-web.jp/workflows/)\
 
