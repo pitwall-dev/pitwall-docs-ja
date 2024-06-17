@@ -12,6 +12,8 @@
 * [リリースノート](overview/releases/README.md)
   * [Web UI & Backend](overview/releases/webui-backend/README.md)
     * [Web UI & Backend - アーカイブ](overview/releases/webui-backend/archive/README.md)
+      * [リリースノート v.1.x](overview/releases/webui-backend/archive/v1_2_x.md)
+      * [リリースノート v.1.2.x](overview/releases/webui-backend/archive/v1_1_x.md)
       * [Web UI & バックエンド Pre-GA](overview/releases/webui-backend/archive/pre-ga/README.md)
         * [リリースノート v.0.12.x](overview/releases/webui-backend/archive/pre-ga/v0_12_x.md)
         * [リリースノート v.0.11.x](overview/releases/webui-backend/archive/pre-ga/v0_11_x.md)
