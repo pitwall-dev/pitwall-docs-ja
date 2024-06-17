@@ -3,7 +3,7 @@
 現在、Chrome拡張機能はパッケージとしてプライベートに提供されています。
 
 ## パッケージ及びインストール方法
-最新のChrome拡張機能は[ここから](https://drive.google.com/drive/folders/1KQhEO_SMMr_kfwVEthifNThVUM6TRTbh?usp=drive_link)入手できます。<br>
+最新のChrome拡張機能は[ここから](https://chromewebstore.google.com/detail/pitwall/gcnpdohiennomecakkoncdjnkhaonfpm?hl=ja)入手できます。<br>
 インストール方法は[ここ](install.md)を参照ください。
 
 ## ブラウザ拡張機能の起動方法
